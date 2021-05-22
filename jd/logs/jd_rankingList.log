@@ -1,0 +1,492 @@
+Apr 25 09:21:29 
+Apr 25 09:21:29 🔔京东排行榜, 开始!
+Apr 25 09:21:31 京东排行榜CDN缓存刷新成功
+Apr 25 09:21:33 "connect ECONNREFUSED 151.101.228.133:443"
+Apr 25 09:25:51 
+Apr 25 09:25:51 🔔京东排行榜, 开始!
+Apr 25 09:25:51 
+Apr 25 09:25:51 ====================共6个京东账号Cookie=========
+Apr 25 09:25:51 
+Apr 25 09:25:51 ==================脚本执行- 北京时间(UTC+8)：4/25/2021, 9:25:51 AM=====================
+Apr 25 09:25:51 
+Apr 25 09:25:51 
+Apr 25 09:25:51 ❗️京东排行榜, 错误!
+Apr 25 09:25:51 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:25:51     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:25:51     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:25:51     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:25:51 今日王牌-逛商品
+Apr 25 09:25:52 响应成功
+Apr 25 09:25:52 今日王牌-逛商品
+Apr 25 09:25:53 响应成功
+Apr 25 09:25:53 今日王牌-逛商品
+Apr 25 09:25:54 响应成功
+Apr 25 09:25:54 今日王牌-逛会场
+Apr 25 09:25:55 响应成功
+Apr 25 09:25:55 今日王牌-关注店铺
+Apr 25 09:25:57 响应成功
+Apr 25 09:25:57 开始签到
+Apr 25 09:25:58 响应成功
+Apr 25 09:25:58 
+Apr 25 09:25:58 ==============📣系统通知📣==============
+Apr 25 09:25:58 京东排行榜
+Apr 25 09:25:58 京东账号：
+Apr 25 09:25:58 获得京豆：5个
+Apr 25 09:25:58 请点击通知跳转至APP查看
+Apr 25 09:25:58 
+Apr 25 09:25:58 ***************开始京东账号2***************
+Apr 25 09:25:58 
+Apr 25 09:25:58 ❗️京东排行榜, 错误!
+Apr 25 09:25:58 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:25:58     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:25:58     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:25:58     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:25:58 
+Apr 25 09:25:58 ❗️京东排行榜, 错误!
+Apr 25 09:25:58 TypeError: Cannot read property 'signTask' of undefined
+Apr 25 09:25:58     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:111:37)
+Apr 25 09:25:58     at got.post.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:5694)
+Apr 25 09:25:58     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:25:58 
+Apr 25 09:25:58 ==============📣系统通知📣==============
+Apr 25 09:25:58 京东排行榜
+Apr 25 09:25:58 京东账号：
+Apr 25 09:25:58 获得京豆：失败：
+Apr 25 09:25:58 请点击通知跳转至APP查看
+Apr 25 09:25:58 
+Apr 25 09:25:58 ***************开始京东账号3***************
+Apr 25 09:25:58 
+Apr 25 09:25:58 ❗️京东排行榜, 错误!
+Apr 25 09:25:58 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:25:58     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:25:58     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:25:58     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:25:58 今日王牌-逛商品
+Apr 25 09:26:00 响应成功
+Apr 25 09:26:00 今日王牌-逛商品
+Apr 25 09:26:01 响应成功
+Apr 25 09:26:01 今日王牌-逛商品
+Apr 25 09:26:02 响应成功
+Apr 25 09:26:02 今日王牌-逛会场
+Apr 25 09:26:03 响应成功
+Apr 25 09:26:03 今日王牌-关注店铺
+Apr 25 09:26:04 响应成功
+Apr 25 09:26:04 开始签到
+Apr 25 09:26:05 响应成功
+Apr 25 09:26:05 
+Apr 25 09:26:05 ==============📣系统通知📣==============
+Apr 25 09:26:05 京东排行榜
+Apr 25 09:26:05 京东账号：
+Apr 25 09:26:05 获得京豆：4个
+Apr 25 09:26:05 请点击通知跳转至APP查看
+Apr 25 09:26:05 
+Apr 25 09:26:05 ***************开始京东账号4***************
+Apr 25 09:26:06 
+Apr 25 09:26:06 ❗️京东排行榜, 错误!
+Apr 25 09:26:06 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:26:06     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:26:06     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:26:06     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:26:06 今日王牌-逛商品
+Apr 25 09:26:07 响应成功
+Apr 25 09:26:07 今日王牌-逛商品
+Apr 25 09:26:08 响应成功
+Apr 25 09:26:08 今日王牌-逛商品
+Apr 25 09:26:09 响应成功
+Apr 25 09:26:09 今日王牌-逛会场
+Apr 25 09:26:10 响应成功
+Apr 25 09:26:10 今日王牌-关注店铺
+Apr 25 09:26:11 响应成功
+Apr 25 09:26:11 开始签到
+Apr 25 09:26:13 响应成功
+Apr 25 09:26:13 
+Apr 25 09:26:13 ==============📣系统通知📣==============
+Apr 25 09:26:13 京东排行榜
+Apr 25 09:26:13 京东账号：
+Apr 25 09:26:13 获得京豆：3个
+Apr 25 09:26:13 请点击通知跳转至APP查看
+Apr 25 09:26:13 
+Apr 25 09:26:13 ***************开始京东账号5***************
+Apr 25 09:26:13 
+Apr 25 09:26:13 ❗️京东排行榜, 错误!
+Apr 25 09:26:13 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:26:13     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:26:13     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:26:13     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:26:13 今日王牌-逛商品
+Apr 25 09:26:14 响应成功
+Apr 25 09:26:14 今日王牌-逛商品
+Apr 25 09:26:15 响应成功
+Apr 25 09:26:15 今日王牌-逛商品
+Apr 25 09:26:16 响应成功
+Apr 25 09:26:16 今日王牌-逛会场
+Apr 25 09:26:18 响应成功
+Apr 25 09:26:18 今日王牌-关注店铺
+Apr 25 09:26:19 响应成功
+Apr 25 09:26:19 开始签到
+Apr 25 09:26:20 响应成功
+Apr 25 09:26:20 
+Apr 25 09:26:20 ==============📣系统通知📣==============
+Apr 25 09:26:20 京东排行榜
+Apr 25 09:26:20 京东账号：
+Apr 25 09:26:20 获得京豆：4个
+Apr 25 09:26:20 请点击通知跳转至APP查看
+Apr 25 09:26:20 
+Apr 25 09:26:20 ***************开始京东账号6***************
+Apr 25 09:26:20 
+Apr 25 09:26:20 ❗️京东排行榜, 错误!
+Apr 25 09:26:20 TypeError: Cannot read property 'nickname' of undefined
+Apr 25 09:26:20     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 25 09:26:20     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 25 09:26:20     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 25 09:26:20 今日王牌-逛商品
+Apr 25 09:26:21 响应成功
+Apr 25 09:26:21 今日王牌-逛商品
+Apr 25 09:26:23 响应成功
+Apr 25 09:26:23 今日王牌-逛商品
+Apr 25 09:26:24 响应成功
+Apr 25 09:26:24 今日王牌-逛会场
+Apr 25 09:26:25 响应成功
+Apr 25 09:26:25 今日王牌-关注店铺
+Apr 25 09:26:26 响应成功
+Apr 25 09:26:26 开始签到
+Apr 25 09:26:27 响应成功
+Apr 25 09:26:27 
+Apr 25 09:26:27 ==============📣系统通知📣==============
+Apr 25 09:26:27 京东排行榜
+Apr 25 09:26:27 京东账号：
+Apr 25 09:26:27 获得京豆：4个
+Apr 25 09:26:27 请点击通知跳转至APP查看
+Apr 25 09:26:27 
+Apr 25 09:26:27 🔔京东排行榜, 结束! 🕛 36.668 秒
+Apr 25 09:26:27 
+Apr 26 09:22:40 
+Apr 26 09:22:40 🔔京东排行榜, 开始!
+Apr 26 09:22:42 京东排行榜CDN缓存刷新成功
+Apr 26 09:22:44 "connect ECONNREFUSED 151.101.228.133:443"
+Apr 26 09:22:44 
+Apr 26 09:22:44 🔔京东排行榜, 开始!
+Apr 26 09:22:44 
+Apr 26 09:22:44 ====================共6个京东账号Cookie=========
+Apr 26 09:22:44 
+Apr 26 09:22:44 ==================脚本执行- 北京时间(UTC+8)：4/26/2021, 9:22:44 AM=====================
+Apr 26 09:22:44 
+Apr 26 09:22:44 
+Apr 26 09:22:44 ❗️京东排行榜, 错误!
+Apr 26 09:22:44 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:22:44     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:22:44     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:22:44     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:22:44 今日王牌-逛商品
+Apr 26 09:22:45 响应成功
+Apr 26 09:22:45 今日王牌-逛商品
+Apr 26 09:22:47 响应成功
+Apr 26 09:22:47 今日王牌-逛商品
+Apr 26 09:22:48 响应成功
+Apr 26 09:22:48 今日王牌-逛会场
+Apr 26 09:22:53 响应成功
+Apr 26 09:22:53 今日王牌-关注店铺
+Apr 26 09:22:54 响应成功
+Apr 26 09:22:54 开始签到
+Apr 26 09:22:55 响应成功
+Apr 26 09:22:55 
+Apr 26 09:22:55 ==============📣系统通知📣==============
+Apr 26 09:22:55 京东排行榜
+Apr 26 09:22:55 京东账号：
+Apr 26 09:22:55 获得京豆：13个
+Apr 26 09:22:55 请点击通知跳转至APP查看
+Apr 26 09:22:55 
+Apr 26 09:22:55 ***************开始京东账号2***************
+Apr 26 09:22:55 
+Apr 26 09:22:55 ❗️京东排行榜, 错误!
+Apr 26 09:22:55 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:22:55     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:22:55     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:22:55     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:22:55 
+Apr 26 09:22:55 ❗️京东排行榜, 错误!
+Apr 26 09:22:55 TypeError: Cannot read property 'signTask' of undefined
+Apr 26 09:22:55     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:111:37)
+Apr 26 09:22:55     at got.post.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:5694)
+Apr 26 09:22:55     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:22:55 
+Apr 26 09:22:55 ==============📣系统通知📣==============
+Apr 26 09:22:55 京东排行榜
+Apr 26 09:22:55 京东账号：
+Apr 26 09:22:55 获得京豆：失败：
+Apr 26 09:22:55 请点击通知跳转至APP查看
+Apr 26 09:22:55 
+Apr 26 09:22:55 ***************开始京东账号3***************
+Apr 26 09:22:55 
+Apr 26 09:22:55 ❗️京东排行榜, 错误!
+Apr 26 09:22:55 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:22:55     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:22:55     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:22:55     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:22:55 今日王牌-逛商品
+Apr 26 09:22:57 响应成功
+Apr 26 09:22:57 今日王牌-逛商品
+Apr 26 09:22:58 响应成功
+Apr 26 09:22:58 今日王牌-逛商品
+Apr 26 09:22:59 响应成功
+Apr 26 09:22:59 今日王牌-逛会场
+Apr 26 09:23:00 响应成功
+Apr 26 09:23:00 今日王牌-关注店铺
+Apr 26 09:23:01 响应成功
+Apr 26 09:23:01 开始签到
+Apr 26 09:23:02 响应成功
+Apr 26 09:23:02 
+Apr 26 09:23:02 ==============📣系统通知📣==============
+Apr 26 09:23:02 京东排行榜
+Apr 26 09:23:02 京东账号：
+Apr 26 09:23:02 获得京豆：11个
+Apr 26 09:23:02 请点击通知跳转至APP查看
+Apr 26 09:23:02 
+Apr 26 09:23:02 ***************开始京东账号4***************
+Apr 26 09:23:02 
+Apr 26 09:23:02 ❗️京东排行榜, 错误!
+Apr 26 09:23:02 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:23:02     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:23:02     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:23:02     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:23:03 今日王牌-逛商品
+Apr 26 09:23:04 响应成功
+Apr 26 09:23:04 今日王牌-逛商品
+Apr 26 09:23:05 响应成功
+Apr 26 09:23:05 今日王牌-逛商品
+Apr 26 09:23:06 响应成功
+Apr 26 09:23:06 今日王牌-逛会场
+Apr 26 09:23:07 响应成功
+Apr 26 09:23:07 今日王牌-关注店铺
+Apr 26 09:23:08 响应成功
+Apr 26 09:23:08 开始签到
+Apr 26 09:23:10 响应成功
+Apr 26 09:23:10 
+Apr 26 09:23:10 ==============📣系统通知📣==============
+Apr 26 09:23:10 京东排行榜
+Apr 26 09:23:10 京东账号：
+Apr 26 09:23:10 获得京豆：12个
+Apr 26 09:23:10 请点击通知跳转至APP查看
+Apr 26 09:23:10 
+Apr 26 09:23:10 ***************开始京东账号5***************
+Apr 26 09:23:10 
+Apr 26 09:23:10 ❗️京东排行榜, 错误!
+Apr 26 09:23:10 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:23:10     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:23:10     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:23:10     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:23:10 今日王牌-逛商品
+Apr 26 09:23:11 响应成功
+Apr 26 09:23:11 今日王牌-逛商品
+Apr 26 09:23:12 响应成功
+Apr 26 09:23:12 今日王牌-逛商品
+Apr 26 09:23:13 响应成功
+Apr 26 09:23:13 今日王牌-逛会场
+Apr 26 09:23:14 响应成功
+Apr 26 09:23:14 今日王牌-关注店铺
+Apr 26 09:23:16 响应成功
+Apr 26 09:23:16 开始签到
+Apr 26 09:23:17 响应成功
+Apr 26 09:23:17 
+Apr 26 09:23:17 ==============📣系统通知📣==============
+Apr 26 09:23:17 京东排行榜
+Apr 26 09:23:17 京东账号：
+Apr 26 09:23:17 获得京豆：13个
+Apr 26 09:23:17 请点击通知跳转至APP查看
+Apr 26 09:23:17 
+Apr 26 09:23:17 ***************开始京东账号6***************
+Apr 26 09:23:17 
+Apr 26 09:23:17 ❗️京东排行榜, 错误!
+Apr 26 09:23:17 TypeError: Cannot read property 'nickname' of undefined
+Apr 26 09:23:17     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 26 09:23:17     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 26 09:23:17     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 26 09:23:17 今日王牌-逛商品
+Apr 26 09:23:18 响应成功
+Apr 26 09:23:18 今日王牌-逛商品
+Apr 26 09:23:19 响应成功
+Apr 26 09:23:19 今日王牌-逛商品
+Apr 26 09:23:21 响应成功
+Apr 26 09:23:21 今日王牌-逛会场
+Apr 26 09:23:22 响应成功
+Apr 26 09:23:22 今日王牌-关注店铺
+Apr 26 09:23:23 响应成功
+Apr 26 09:23:23 开始签到
+Apr 26 09:23:24 响应成功
+Apr 26 09:23:24 
+Apr 26 09:23:24 ==============📣系统通知📣==============
+Apr 26 09:23:24 京东排行榜
+Apr 26 09:23:24 京东账号：
+Apr 26 09:23:24 获得京豆：12个
+Apr 26 09:23:24 请点击通知跳转至APP查看
+Apr 26 09:23:24 
+Apr 26 09:23:24 🔔京东排行榜, 结束! 🕛 39.977 秒
+Apr 26 09:23:24 
+Apr 27 09:22:26 
+Apr 27 09:22:26 🔔京东排行榜, 开始!
+Apr 27 09:22:27 京东排行榜CDN缓存刷新成功
+Apr 27 09:22:29 "connect ECONNREFUSED 151.101.228.133:443"
+Apr 27 09:22:29 
+Apr 27 09:22:29 🔔京东排行榜, 开始!
+Apr 27 09:22:29 
+Apr 27 09:22:29 ====================共6个京东账号Cookie=========
+Apr 27 09:22:29 
+Apr 27 09:22:29 ==================脚本执行- 北京时间(UTC+8)：4/27/2021, 9:22:29 AM=====================
+Apr 27 09:22:29 
+Apr 27 09:22:29 
+Apr 27 09:22:29 ❗️京东排行榜, 错误!
+Apr 27 09:22:29 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:22:29     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:22:29     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:22:29     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:22:29 今日王牌-逛商品
+Apr 27 09:22:31 响应成功
+Apr 27 09:22:31 今日王牌-逛商品
+Apr 27 09:22:32 响应成功
+Apr 27 09:22:32 今日王牌-逛商品
+Apr 27 09:22:33 响应成功
+Apr 27 09:22:33 今日王牌-逛会场
+Apr 27 09:22:34 响应成功
+Apr 27 09:22:34 今日王牌-关注店铺
+Apr 27 09:22:35 响应成功
+Apr 27 09:22:35 开始签到
+Apr 27 09:22:37 响应成功
+Apr 27 09:22:37 
+Apr 27 09:22:37 ==============📣系统通知📣==============
+Apr 27 09:22:37 京东排行榜
+Apr 27 09:22:37 京东账号：
+Apr 27 09:22:37 获得京豆：4个
+Apr 27 09:22:37 请点击通知跳转至APP查看
+Apr 27 09:22:37 
+Apr 27 09:22:37 ***************开始京东账号2***************
+Apr 27 09:22:37 
+Apr 27 09:22:37 ❗️京东排行榜, 错误!
+Apr 27 09:22:37 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:22:37     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:22:37     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:22:37     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:22:37 今日王牌-逛商品
+Apr 27 09:22:38 响应成功
+Apr 27 09:22:38 今日王牌-逛商品
+Apr 27 09:22:39 响应成功
+Apr 27 09:22:39 今日王牌-逛商品
+Apr 27 09:22:40 响应成功
+Apr 27 09:22:40 今日王牌-逛会场
+Apr 27 09:22:41 响应成功
+Apr 27 09:22:41 今日王牌-关注店铺
+Apr 27 09:22:43 响应成功
+Apr 27 09:22:43 开始签到
+Apr 27 09:22:44 响应成功
+Apr 27 09:22:44 
+Apr 27 09:22:44 ==============📣系统通知📣==============
+Apr 27 09:22:44 京东排行榜
+Apr 27 09:22:44 京东账号：
+Apr 27 09:22:44 获得京豆：3个
+Apr 27 09:22:44 请点击通知跳转至APP查看
+Apr 27 09:22:44 
+Apr 27 09:22:44 ***************开始京东账号3***************
+Apr 27 09:22:44 
+Apr 27 09:22:44 ❗️京东排行榜, 错误!
+Apr 27 09:22:44 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:22:44     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:22:44     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:22:44     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:22:44 今日王牌-逛商品
+Apr 27 09:22:45 响应成功
+Apr 27 09:22:45 今日王牌-逛商品
+Apr 27 09:22:46 响应成功
+Apr 27 09:22:46 今日王牌-逛商品
+Apr 27 09:22:48 响应成功
+Apr 27 09:22:48 今日王牌-逛会场
+Apr 27 09:22:49 响应成功
+Apr 27 09:22:49 今日王牌-关注店铺
+Apr 27 09:22:50 响应成功
+Apr 27 09:22:50 开始签到
+Apr 27 09:22:51 响应成功
+Apr 27 09:22:51 
+Apr 27 09:22:51 ==============📣系统通知📣==============
+Apr 27 09:22:51 京东排行榜
+Apr 27 09:22:51 京东账号：
+Apr 27 09:22:51 获得京豆：4个
+Apr 27 09:22:51 请点击通知跳转至APP查看
+Apr 27 09:22:51 
+Apr 27 09:22:51 ***************开始京东账号4***************
+Apr 27 09:22:51 
+Apr 27 09:22:51 ❗️京东排行榜, 错误!
+Apr 27 09:22:51 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:22:51     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:22:51     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:22:51     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:22:51 今日王牌-逛商品
+Apr 27 09:22:53 响应成功
+Apr 27 09:22:53 今日王牌-逛商品
+Apr 27 09:22:54 响应成功
+Apr 27 09:22:54 今日王牌-逛商品
+Apr 27 09:22:55 响应成功
+Apr 27 09:22:55 今日王牌-逛会场
+Apr 27 09:22:56 响应成功
+Apr 27 09:22:56 今日王牌-关注店铺
+Apr 27 09:22:57 响应成功
+Apr 27 09:22:57 开始签到
+Apr 27 09:22:58 响应成功
+Apr 27 09:22:58 
+Apr 27 09:22:58 ==============📣系统通知📣==============
+Apr 27 09:22:58 京东排行榜
+Apr 27 09:22:58 京东账号：
+Apr 27 09:22:58 获得京豆：3个
+Apr 27 09:22:58 请点击通知跳转至APP查看
+Apr 27 09:22:58 
+Apr 27 09:22:58 ***************开始京东账号5***************
+Apr 27 09:22:58 
+Apr 27 09:22:58 ❗️京东排行榜, 错误!
+Apr 27 09:22:58 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:22:58     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:22:58     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:22:58     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:22:59 今日王牌-逛商品
+Apr 27 09:23:00 响应成功
+Apr 27 09:23:00 今日王牌-逛商品
+Apr 27 09:23:01 响应成功
+Apr 27 09:23:01 今日王牌-逛商品
+Apr 27 09:23:02 响应成功
+Apr 27 09:23:02 今日王牌-逛会场
+Apr 27 09:23:03 响应成功
+Apr 27 09:23:03 今日王牌-关注店铺
+Apr 27 09:23:04 响应成功
+Apr 27 09:23:04 开始签到
+Apr 27 09:23:06 响应成功
+Apr 27 09:23:06 
+Apr 27 09:23:06 ==============📣系统通知📣==============
+Apr 27 09:23:06 京东排行榜
+Apr 27 09:23:06 京东账号：
+Apr 27 09:23:06 获得京豆：3个
+Apr 27 09:23:06 请点击通知跳转至APP查看
+Apr 27 09:23:06 
+Apr 27 09:23:06 ***************开始京东账号6***************
+Apr 27 09:23:06 
+Apr 27 09:23:06 ❗️京东排行榜, 错误!
+Apr 27 09:23:06 TypeError: Cannot read property 'nickname' of undefined
+Apr 27 09:23:06     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 27 09:23:06     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 27 09:23:06     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 27 09:23:06 今日王牌-逛商品
+Apr 27 09:23:07 响应成功
+Apr 27 09:23:07 今日王牌-逛商品
+Apr 27 09:23:08 响应成功
+Apr 27 09:23:08 今日王牌-逛商品
+Apr 27 09:23:09 响应成功
+Apr 27 09:23:09 今日王牌-逛会场
+Apr 27 09:23:11 响应成功
+Apr 27 09:23:11 今日王牌-关注店铺
+Apr 27 09:23:12 响应成功
+Apr 27 09:23:12 开始签到
+Apr 27 09:23:13 响应成功
+Apr 27 09:23:13 
+Apr 27 09:23:13 ==============📣系统通知📣==============
+Apr 27 09:23:13 京东排行榜
+Apr 27 09:23:13 京东账号：
+Apr 27 09:23:13 获得京豆：4个
+Apr 27 09:23:13 请点击通知跳转至APP查看
+Apr 27 09:23:13 
+Apr 27 09:23:13 🔔京东排行榜, 结束! 🕛 43.869 秒
+Apr 27 09:23:13 
